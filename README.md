@@ -1,3 +1,3 @@
-Hey you, how did you end up on this page? You will surely be very bored to have made it this far...
+Graduated in Computer Science and Technology at the University of Salerno. Strongly passionate about the world of AI and bioinformatics, a passion that I was able to put into practice during my studies, developing related projects and making them the focus of my degree thesis.
 
 
